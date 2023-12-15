@@ -1,0 +1,10 @@
+# Ignore .vscode folder
+.vscode
+
+*settings.json
+
+*.txt
+
+*.eps
+
+*.ai
