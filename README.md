@@ -22,6 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
+- Solution URL: [https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
+
 - Live Site URL: [https://qr-code-component-project-three.vercel.app/](https://qr-code-component-project-three.vercel.app/)
 
 ## My process
