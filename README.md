@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Solution URL: [https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
 
-- Live Site URL: [https://master--chegodev-qr-code.netlify.app/](https://master--chegodev-qr-code.netlify.app/)
+- Live Site URL: [https://chegodev.github.io/QR-Code-Component-Project/](https://chegodev.github.io/QR-Code-Component-Project/)
 
 ## My process
 
