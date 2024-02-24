@@ -22,9 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
+- Solution : [here](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
 
-- Live Site URL: [here](https://chegodev.github.io/QR-Code-Component-Project/)
+- Live Site : [here](https://chegodev.github.io/QR-Code-Component-Project/)
 
 ## My process
 
