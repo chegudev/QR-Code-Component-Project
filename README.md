@@ -22,9 +22,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-for-qr-code-page-using-flexbox-and-javascript-plugin-aFGRQHuVAQ)
 
-- Live Site URL: [https://chegodev.github.io/QR-Code-Component-Project/](https://chegodev.github.io/QR-Code-Component-Project/)
+- Live Site URL: [here](https://chegodev.github.io/QR-Code-Component-Project/)
 
 ## My process
 
@@ -65,5 +65,5 @@ I'd like to devote more time to resolving issues and mastering the fundamentals 
 
 ## Author
 
-- Frontend Mentor - [@zhrehsani](https://www.frontendmentor.io/profile/zhrehsani)
+- Frontend Mentor - [@chegodev](https://www.frontendmentor.io/profile/chegodev)
 - Linkedin - [chegodev](https://www.linkedin.com/in/chegodev/)
