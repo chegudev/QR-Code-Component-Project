@@ -24,10 +24,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
--  [Solution]()
-
--  [Live Site]()
-
 ## My process
 
 ### Built with
@@ -47,6 +43,5 @@ I realized that in order to show my creativity as a front-end developer, I don't
 
 ## Author
 
-- Frontend Mentor - [@chegudev](https://www.frontendmentor.io/profile/chegudev)
-- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/chegudev/)
-- Github - [chegudev](https://github.com/chegudev)
+- Frontend Mentor - [@zhrehsani](https://www.frontendmentor.io/profile/zhrehsani)
+- Linkedin - [chegodev](https://www.linkedin.com/in/chegodev/)
