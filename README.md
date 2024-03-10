@@ -34,6 +34,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 ### Why did I code the project again?
+
 Well, the first time I coded this project, I actually didn't know much about HTML/CSS.
 The presence of unnecessary files, excess in the appearance of the page, and the lack of standard structuring,
 It made me decide to rebuild the project.
@@ -43,5 +44,6 @@ I realized that in order to show my creativity as a front-end developer, I don't
 
 ## Author
 
-- Frontend Mentor - [@zhrehsani](https://www.frontendmentor.io/profile/zhrehsani)
-- Linkedin - [chegodev](https://www.linkedin.com/in/chegodev/)
+- Frontend Mentor - [@chegudev](https://www.frontendmentor.io/profile/chegudev)
+- Github - [chegudev](https://github.com/chegudev)
+- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/chegudev/)
