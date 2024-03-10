@@ -9,20 +9,24 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
+  - [Why did I code the project again?](#what-i-learned)
 - [Author](#author)
 
 ## Overview
 
-### Screenshot
+### New
 
-![](./images/qrcode.gif)
+![](./assets/newQRcode.png)
+
+### Old
+
+![](./assets/oldQRcode.gif)
 
 ### Links
 
-- Live Site URL: [https://qr-code-component-project-three.vercel.app/](https://qr-code-component-project-three.vercel.app/)
+-  [Solution]()
+
+-  [Live Site]()
 
 ## My process
 
@@ -30,38 +34,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- JavaScript Plugin - For Styles
+- Flex-box
 
-### What I learned
 
-I learned that using library plugins can help make a project faster and fix problems.</br>
-In order to avoid overlapping with the background of my project, I had to change its background. However, I was unable to do this through the plugin code. The opacity property helped me and the result was the same as you see.
+### Why did I code the project again?
+Well, the first time I coded this project, I actually didn't know much about HTML/CSS.
+The presence of unnecessary files, excess in the appearance of the page, and the lack of standard structuring,
+It made me decide to rebuild the project.
 
-```html
-    <script src="https://cdn.jsdelivr.net/npm/bubbly-bg@1.0.0/dist/bubbly-bg.js"></script>
-    <script>bubbly();</script>
-```
-```css
-#QR-bg{
-    width: 100%;
-    height: 100vh;
-    opacity: 0.5;
-}
-```
+I realized that in order to show my creativity as a front-end developer, I don't necessarily need to add different and weird designs to the project; Rather, what can make me different from others in this profession is the use of tricks and tips that can have a positive effect on the way of structuring and even improving the efficiency of the project.
 
-### Continued development
-
-I'd like to devote more time to resolving issues and mastering the fundamentals of JavaScript and the React framework.
-
-### useful resources
-
-- [Bubbles creation by HTML5 and CSS3](https://www.aparat.com/v/MQ3eF)
-- [Some JavaScript plugins](https://roocket.ir/articles/javascript-plugins)
-- [bubbly-bg/Generator](https://tipsy.github.io/bubbly-bg/generator)
 
 ## Author
 
-- Frontend Mentor - [@zhrehsani](https://www.frontendmentor.io/profile/zhrehsani)
-- Linkedin - [chegodev](https://www.linkedin.com/in/chegodev/)
+- Frontend Mentor - [@chegudev](https://www.frontendmentor.io/profile/chegudev)
+- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/chegudev/)
+- Github - [chegudev](https://github.com/chegudev)

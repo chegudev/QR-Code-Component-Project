@@ -1,63 +1,63 @@
+/* Add Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* Return to Factory Style */
 *{
     margin: 0;
     padding: 0;
 }
 
+/* Base Style */
 body{
-    font-family: 'Outfit', sans-serif;
-    background-repeat: no-repeat;
-    background-position: center;
-    background-attachment: fixed;
-    background-size: cover;
-    overflow: hidden;
-}
-
-#QR-bg{
-    width: 100%;
-    height: 100vh;
-    opacity: 0.5;
-}
-
-.container{
-    max-width: 250px;
-    max-height: 350px;
+    font-family: "Outfit", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400, 700;
+    font-style: normal;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
     display: flex;
-    justify-content: center;
     align-items: center;
 }
 
-.card{
-    position: absolute;
-    width: 250px;
-    left:0; right: 0;
-    margin-left: auto; margin-right: auto;
-    top: 130px;
-    background-color: #0d21a1;
+/* Styles on Attribution */
+.attribution {
+    font-size: 11px;
     text-align: center;
-    padding: 20px;
-    padding-top: 30px;
-    border-radius: 20px;
+    padding-top: 15px;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
 
+/* Container Section */
+.container{
+    max-width: 360px;
+    margin: 0 auto;
+}
+
+/* Card Section */
+.card{
+    background-color: hsl(0, 0%, 100%);
+    padding: 18px;
+    border-radius: 17px;
+    text-align: center;
+    margin: 0 1em;
+    box-shadow: 5px 5px 5px 1px rgba(35, 48, 59, 0.2);
+}
 .card img{
-    width: 220px;
-    height: 220px;
-    border-radius: 15px;
-    opacity: 0.8;
+    width: 100%;
+    border-radius: 12px;
 }
 
-#text{
-    padding-top: 20px;
+/* Text Section */
+.text{
+    padding: 22px 10px;
+}
+.text h2{
+    color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
 }
-
-span{
-    font-size: 22px;
-    color: #a3cef1;
-}
-
-p{
-    padding-top: 8px;
-    font-size: 15px;
-    color: #e7ecef;
+.text p{
+    color: hsl(220, 15%, 55%);
 }
