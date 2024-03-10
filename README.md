@@ -8,8 +8,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Why did I code the project again ?](#Why-did-I-code-the-project-again-)
+  - [Why did I code the project again ?](#why-did-i-code-the-project-again-)
 - [Author](#author)
+
 
 ## Overview
 
@@ -17,12 +18,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ![](./assets/newQRcode.png)
 
-### Old
+### Old 
 
 ![](./assets/oldQRcode.gif)
 
 ### Links
 
+- [Live Page](https://chegudev.github.io/QR-Code-Component-Project/)
+ 
 ## My process
 
 ### Built with
