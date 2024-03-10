@@ -25,6 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - [Live Page](https://chegudev.github.io/QR-Code-Component-Project/)
+- [Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-component-in-html5-and-css3-mOrn8s6NM1)
+- [Repository](https://github.com/chegudev/QR-Code-Component-Project.git)
  
 ## My process
 
