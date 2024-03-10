@@ -8,7 +8,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Why did I code the project again?](#Why-did-I-code-the-project-again?)
+  - [Why did I code the project again ?](#Why-did-I-code-the-project-again-?)
 - [Author](#author)
 
 ## Overview
@@ -32,7 +32,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flex-box
 
 
-## Why did I code the project again?
+### Why did I code the project again ?
 
 Well, the first time I coded this project, I actually didn't know much about HTML/CSS.
 The presence of unnecessary files, excess in the appearance of the page, and the lack of standard structuring,
