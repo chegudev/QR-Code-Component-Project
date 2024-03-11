@@ -32,7 +32,7 @@ body{
 
 /* Container Section */
 .container{
-    max-width: 350px;
+    max-width: 340px;
     margin: 0 auto;
 }
 
@@ -57,6 +57,7 @@ body{
 .text h1{
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
+    font-size: 11px;
 }
 .text p{
     color: hsl(220, 15%, 55%);
