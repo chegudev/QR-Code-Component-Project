@@ -5,11 +5,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [Why did I code the project again?](#what-i-learned)
+  - [Why did I code the project again?](#Why-did-I-code-the-project-again-?)
 - [Author](#author)
 
 ## Overview
@@ -43,5 +42,5 @@ I realized that in order to show my creativity as a front-end developer, I don't
 
 ## Author
 
-- Frontend Mentor - [@zhrehsani](https://www.frontendmentor.io/profile/zhrehsani)
-- Linkedin - [chegodev](https://www.linkedin.com/in/chegodev/)
+- Frontend Mentor - [@chegudev](https://www.frontendmentor.io/profile/chegudev)
+- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/chegudev/)
