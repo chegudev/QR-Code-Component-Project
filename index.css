@@ -54,9 +54,10 @@ body{
 .text{
     padding: 22px 10px;
 }
-.text h2{
+.text span{
     color: hsl(218, 44%, 22%);
     padding-bottom: 15px;
+    font-size: 22px;
 }
 .text p{
     color: hsl(220, 15%, 55%);
