@@ -50,4 +50,4 @@ I realized that in order to show my creativity as a front-end developer, I don't
 
 - Frontend Mentor - [@chegudev](https://www.frontendmentor.io/profile/chegudev)
 - Github - [chegudev](https://github.com/chegudev)
-- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/chegudev/)
+- Linkedin - [Zahra Ehsani](https://www.linkedin.com/in/zahraehsani/)
